@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "${modName}'s resources",
+        "pack_format": 18
+    }
+}
